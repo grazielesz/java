@@ -1,0 +1,26 @@
+Nota Fiscal | grazi
+Preco: 70.0 | Pagamento: 200.0 | Troco: 130.0
+[
+Produto: PIZZA CUSTOMIZADA
+ Validade: NÃO SE APLICA
+ Peso: 10.0
+ Preco: 40.0
+
+ Molho: aassdsfsgf
+ Borda: sAdadsfdg
+ Recheio: adsfsdfds, 
+Produto: lanche vegetariano
+ Validade: 26/01/20022
+ Peso: 98.0
+ Preco: 20.0
+, 
+Produto: coxinha de frango
+ Validade: 29/03/2022
+ Peso: 90.0
+ Preco: 5.0
+, 
+Produto: coxinha de frango
+ Validade: 29/03/2022
+ Peso: 90.0
+ Preco: 5.0
+]
