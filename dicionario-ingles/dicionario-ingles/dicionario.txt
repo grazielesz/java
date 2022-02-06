@@ -1,3 +1,0 @@
-Ant,Formiga,Formiguinha
-Car,Carro,Carro dirige
-Lion,Leao,Rawr
